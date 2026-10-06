@@ -18,7 +18,11 @@ Screenshots:
 Technologies Used:
 
 Python
+
 CustomTkinter
+
 Requests
+
 Random Word API
+
 
